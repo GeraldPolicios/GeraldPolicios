@@ -40,4 +40,4 @@ I'm using GitHub to document my learning journey, practice version control, and 
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile, and have a nice day!
