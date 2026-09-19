@@ -36,6 +36,8 @@ To build practical projects and develop the skills needed for a career in **Clou
 
 I'm using GitHub to document my learning journey, practice version control, and build my project portfolio.
 
+- [GitHub](https://github.com/GeraldPolicios)
+
 ---
 
 ⭐ Thanks for visiting my profile!
