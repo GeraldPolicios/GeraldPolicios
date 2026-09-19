@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Gerald 👋
 
-<!--
-**GeraldPolicios/GeraldPolicios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student learning **Cloud Computing, Linux, and Software Development**.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☁️ Cloud Computing
+- 🐧 Linux & Bash
+- 💻 JavaScript
+- 🐙 Git & GitHub
+- 📱 Flutter & Dart
+- 🔥 Firebase
+
+## 🛠️ Projects
+
+### 🐱 PersiPal
+A Persian cat care companion app built with Flutter and Firebase.
+
+### ☁️ Cloud Engineering Portfolio
+I'm building hands-on projects to learn cloud engineering, Linux, automation, and server management.
+
+## 📚 Currently Learning
+
+- Linux command line
+- Bash scripting
+- Git & GitHub
+- JavaScript fundamentals
+- Cloud engineering concepts
+- AWS
+
+## 🎯 My Goal
+
+To build practical projects and develop the skills needed for a career in **Cloud Engineering**.
+
+## 📊 GitHub
+
+I'm using GitHub to document my learning journey, practice version control, and build my project portfolio.
+
+---
+
+⭐ Thanks for visiting my profile!
